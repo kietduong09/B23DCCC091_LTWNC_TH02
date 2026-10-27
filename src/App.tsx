@@ -15,7 +15,7 @@ export default function App() {
   return (
     <div className="app" data-build={BUILD_TAG}>
       <header>
-        <strong className="wordmark">Phòng nghe</strong>
+        <strong className="wordmark">Music Player</strong>
         <nav aria-label="Chính">
           <NavLink to="/" end>Thư viện</NavLink>
           <NavLink to="/favorites">Yêu thích</NavLink>
