@@ -1,4 +1,4 @@
-# Phòng nghe – Trình phát nhạc mini (TH02 LTWNC)
+# Trình phát nhạc mini (TH02 LTWNC)
 
 Trình phát nhạc **mô phỏng**: không có âm thanh thật, "phát nhạc" chỉ là đồng hồ đếm giây và thanh tiến trình. Dữ liệu 10.000 bài do thuật toán xác định sinh ra (`src/data/songs.ts`), không phải dữ liệu âm nhạc thật.
 
